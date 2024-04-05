@@ -1,4 +1,4 @@
-import Character from '../Daemon';
+import Character from '../daemon';
 
 test('should check the class Daemon', () => {
   const character = new Character('Player', 'Daemon');

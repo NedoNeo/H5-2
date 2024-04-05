@@ -2,7 +2,7 @@ import Character from "./character";
 import Bowerman from "./bowman";
 import Swordsman from "./swordman";
 import Magician from "./magician";
-import Daemon from "./Daemon";
+import Daemon from "./daemon";
 import Undead from "./undead";
 import Zombie from "./zombie";
 
