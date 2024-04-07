@@ -1,7 +1,7 @@
-import Character from '../undead';
+import Undead from '../undead';
 
 test('should check the class Undead', () => {
-  const character = new Character('Player', 'Undead');
+  const character = new Undead('Player', 'Undead');
   const result = {
     name: 'Player',
     type: 'Undead',
